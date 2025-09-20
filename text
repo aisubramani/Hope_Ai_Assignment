@@ -1,1 +1,16 @@
+tap= auto suggestion
+SHIFT+TAB=HELP
+alt=shotdown
 
+Decision Tree
+The data is split into branches based on feature values.
+Root Node → the first split (best feature chosen).
+Decision Node → intermediate split.
+Leaf Node → final outcome (class or value).
+Splitting Criteria:
+  Classification → Gini Index or Entropy/Information Gain.
+  Regression → Mean Squared Error (MSE) or MAE.
+
+
+LinkedIN
+Sno, Topic, Caption, call to action, Canva lin
