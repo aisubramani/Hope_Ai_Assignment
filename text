@@ -1,12 +1,16 @@
-link
+design for github link
+----------------------
 https://gprm.itsvg.in/
 
 
+jupyter notebook tips
+---------------------
 tap= auto suggestion
 SHIFT+TAB=HELP
 alt=shotdown
 
 Decision Tree
+-------------
 The data is split into branches based on feature values.
 Root Node → the first split (best feature chosen).
 Decision Node → intermediate split.
@@ -17,6 +21,7 @@ Splitting Criteria:
 
 
 LinkedIN
+----------
 Sno, Topic, Caption, call to action, Canva lin
 
 Notebook++
