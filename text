@@ -18,3 +18,21 @@ Splitting Criteria:
 
 LinkedIN
 Sno, Topic, Caption, call to action, Canva lin
+
+Notebook++
+-----------
+color code install
+step 1: https://notepad-plus-plus.org/downloads/v8.8.5/
+step 2:after install: open notepad++ 
+step 3: save file .py
+step 4:plugins-->NppExport-->copy RTF to clipboard
+paste to word or ppt
+
+ML assumentions
+----------------
+1. No Null , NuN should not, outlier eg 25,30,45,200
+2. ML-should not be outlier, missing value preprocessing 
+3.IQR inter quater Range
+
+
+
