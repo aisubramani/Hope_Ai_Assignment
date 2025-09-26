@@ -6,6 +6,10 @@ powerpoint theme
 ----------------
 https://create.microsoft.com/en-us/powerpoint-templates
 
+dataset collect
+---------------
+https://www.kaggle.com/
+
 jupyter notebook tips
 ---------------------
 tap= auto suggestion
@@ -41,6 +45,8 @@ ML assumentions
 1. No Null , NuN should not, outlier eg 25,30,45,200
 2. ML-should not be outlier, missing value preprocessing 
 3.IQR inter quater Range
+4. * ML or DA first step, fill the missing value 
+5. second step, find outliers
 
 
 
